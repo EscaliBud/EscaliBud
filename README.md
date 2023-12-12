@@ -1,6 +1,6 @@
-
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dzxavulstbbl4y7o4a4nmuswji&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
+</div>
 
 <div align="center">
    <a href="https://github.com/EscaliBud/">
