@@ -1,10 +1,16 @@
 
 
+# Contribution Graph:
 
-## **🎧 Spotify**
+
 <p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31dzxavulstbbl4y7o4a4nmuswji&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/31dzxavulstbbl4y7o4a4nmuswji?si=3bY4YFDvSlmn3RouXAkiFw"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=31dzxavulstbbl4y7o4a4nmuswji"></a>
+  <a href="https://github.com/EscaliBud">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EscaliBud#version3"/>
+  </a>
 </p>
+<a href="https://github.com/EscaliBud"><img alt="Kresswell's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=EscaliBud&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
 
 ## **📶 GitHub Stats**
 <div align="center">
